@@ -177,16 +177,18 @@ p {
 #infosec {
     padding: 10%;
     background: rgb(255, 255, 255);
-    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 61%, rgba(0, 13, 15, 0.47942927170868344) 100%);
+    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 48%, rgba(0, 13, 15, 0.47942927170868344) 100%);
 }
 
 .srdimage1 {
     text-align: center;
-    margin: 50x auto 50px 20pxs;
+    /* margin: 50x auto 50px 20px; */
 }
 
 .srdimage2 {
-    margin-bottom: 30px;
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 10px;
 }
 
 .srdt1 {
@@ -227,12 +229,26 @@ p {
 .magictext {
     margin-top: 30px;
     color: gray;
+    text-align: left;
+}
+
+.mm {
+    text-align: left;
 }
 
 .mlink {
     text-decoration: none;
     color: rgb(0, 119, 255);
     font-size: 1.2rem;
+    text-align: left;
+    margin-left: 30px;
+}
+
+.hrs {
+    background-color: #eee;
+    border: 0 none;
+    color: #eee;
+    height: 1px;
 }
 
 
