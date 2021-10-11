@@ -17,6 +17,10 @@ font-family: 'Ubuntu', sans-serif; */
         text-align: center;
         margin: 50x auto 80pxp 20pxs;
     }
+    .magictext {
+        margin-top: 30px;
+        color: gray;
+    }
 }
 
 h1 {
@@ -187,16 +191,18 @@ p {
 
 .srdt1 {
     font-family: 'Montserrat', sans-serif;
-    padding-top: 150px;
+    /* padding-top: 150px; */
+    padding: 5% 7%;
     padding-left: auto;
     text-align: center;
-    font-size: 3.2rem;
+    font-size: 2.2rem;
 }
 
 .srdt2 {
     font-family: 'Montserrat', sans-serif;
-    padding: 30px auto 20px 30px;
-    font-size: 3.2rem;
+    padding: 5% 7%;
+    /* padding: 30px auto 20px 30px; */
+    font-size: 2.2rem;
 }
 
 
@@ -263,7 +269,7 @@ p {
 .varimage {
     text-align: center;
     width: 150px;
-    height: 200px;
+    height: 220px;
 }
 
 
